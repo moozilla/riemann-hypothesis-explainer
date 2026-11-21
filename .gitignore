@@ -1,0 +1,10 @@
+.venv/
+build/
+media/
+tools/
+tts_samples/
+build_script.json
+__pycache__/
+*.pyc
+.DS_Store
+/riemann_hypothesis_explainer.mp4
